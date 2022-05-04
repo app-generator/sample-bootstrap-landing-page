@@ -19,8 +19,11 @@ The article explains how to use Bootstrap 5 by building a landing page and also 
 
 ## Components
 
-- `Navbar` 
-- `Landing Page`
+- `Navbar`
+- `Home`
+- `Features`
+- `Pricing`
+- `Footer`
 
 ## What is Bootstrap 5
 
