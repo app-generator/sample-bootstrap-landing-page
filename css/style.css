@@ -1,0 +1,100 @@
+/* Tutorial made by Rene-F | 2022 | https://github.com/Rene-F */
+
+
+
+/* reset styling */
+html,
+body
+{
+    height: 100%;
+    width:  100%;
+    margin: 0;
+    padding: 0;
+    color:  #000;
+}
+
+/* navbar styling */
+.navbar,
+.navbar-brand
+{
+    font-size: 1.1em;
+    font-weight: 600;
+    background-color: #000;
+}
+
+/* background styling */
+#main
+{
+    background:url(/Coding/Landing_Page/img/background.jpg) no-repeat center center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+    color: #fff;
+}
+
+/* main content styling */
+.getstarted
+{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* main content text styling */
+.getstarted h1, h3
+{
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+/* padding between containers */
+.padding
+{
+    padding: 80px 0;
+}
+
+/* keep the image inside the containers */
+.padding img
+{
+    width: 100%;
+}
+
+/* fixed scrolling image effect */
+#fixed
+{
+    background:url(/Coding/Landing_Page/img/background2.png) no-repeat center center fixed;
+    display: table;
+    height: 60%;
+    position: relative;
+    width:   100%;
+    background-size: cover;
+}
+
+/* footer styling */
+footer
+{
+    padding: 5% 5%;
+    color: #fff;
+    background-color: #000;
+    font-size: 0.8em;
+}
+
+/* footer icons styling */
+.fa
+{
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.icon
+{
+    max-width: 150px;
+}
+
+
+
+/* Tutorial made by Rene-F | 2022 | https://github.com/Rene-F */
