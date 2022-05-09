@@ -25,7 +25,7 @@ body
 /* background styling */
 #main
 {
-    background:url(/Coding/Landing_Page/img/background.jpg) no-repeat center center fixed;
+    background:url(/img/background.jpg) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -64,7 +64,7 @@ body
 /* fixed scrolling image effect */
 #fixed
 {
-    background:url(/Coding/Landing_Page/img/background2.png) no-repeat center center fixed;
+    background:url(/img/background2.png) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
