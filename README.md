@@ -1,15 +1,18 @@
-# [Bootstrap 5](https://#)
+# [Bootstrap for Beginners](https://blog.appseed.us/bootstrap-for-beginners-with-examples/)
 
-All the sample code for the blog article [Everything important about Bootstrap 5](https://#) - Provided by `AppSeed`.
+All the sample code for the blog article [Everything important about Bootstrap 5](https://blog.appseed.us/bootstrap-for-beginners-with-examples/) - Provided by `AppSeed`.
+The article explains the basics of Bootstrap 5 Framework and also provides two free samples crafted from scratch: a landing page and a dashboard.
 
-The article explains how to use Bootstrap 5 by building a landing page and also a dashboard layout. The website will be built with Bootstrap 5 using HTML and CSS.
-
-- [Bootstrap 5 Landing Page](https://#) - Preview
-- [Bootstrap 5 Dashboard Layout](https://#) - Preview
+- 👉 [Bootstrap 5 Landing Page](https://sample-bootstrap-landing-page.appseed-srv1.com/) - LIVE Demo
+- 👉 [Bootstrap 5 Dashboard Layout](https://sample-bootstrap-dashboard.appseed-srv1.com/) - LIVE Demo
 
 <br />
 
-## How to use it 
+![BS5 Sample - Landign Page](https://user-images.githubusercontent.com/51070104/168033680-5610b1a6-7c6a-473b-a39d-f67d83b4917a.png)
+
+<br />
+
+## ✨ How to use it 
 
 - Download the files
 - Open up index.html in a code editor, if needed make some changes
@@ -17,7 +20,7 @@ The article explains how to use Bootstrap 5 by building a landing page and also 
 
 <br />
 
-## Components
+## ✨ Components
 
 - `Navbar`
 - `Home`
@@ -25,11 +28,11 @@ The article explains how to use Bootstrap 5 by building a landing page and also 
 - `Pricing`
 - `Footer`
 
-## What is Bootstrap 5
+## ✨ What is Bootstrap 5
 
 Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites, it includes HTML, CSS and JavaScript based design templates for almost anything, including (but not limited to): typography, forms, buttons, navigation, and other components.
 
 <br />
 
 --- 
-[Everything important about Bootstrap 5](https://#) - provided by `AppSeed`. 
+[Everything important about Bootstrap 5](https://blog.appseed.us/bootstrap-for-beginners-with-examples/) - provided by `AppSeed`. 
