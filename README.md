@@ -6,17 +6,25 @@ The article explains the basics of Bootstrap 5 Framework and also provides two f
 - 👉 [Bootstrap 5 Landing Page](https://sample-bootstrap-landing-page.appseed-srv1.com/) - LIVE Demo
 - 👉 [Bootstrap 5 Dashboard Layout](https://sample-bootstrap-dashboard.appseed-srv1.com/) - LIVE Demo
 
-<br />
+<br /> 
 
-![BS5 Sample - Landign Page](https://user-images.githubusercontent.com/51070104/168033680-5610b1a6-7c6a-473b-a39d-f67d83b4917a.png)
+> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
 
-<br />
+The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+
+[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+
+<br /> 
 
 ## ✨ How to use it 
 
 - Download the files
 - Open up index.html in a code editor, if needed make some changes
 - Double click index.html to open it in a web browser and see your changes.
+
+<br />
+
+![BS5 Sample - Landign Page](https://user-images.githubusercontent.com/51070104/168033680-5610b1a6-7c6a-473b-a39d-f67d83b4917a.png)
 
 <br />
 
