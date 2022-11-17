@@ -6,15 +6,15 @@ The article explains the basics of Bootstrap 5 Framework and also provides two f
 - 👉 [Bootstrap 5 Landing Page](https://sample-bootstrap-landing-page.appseed-srv1.com/) - LIVE Demo
 - 👉 [Bootstrap 5 Dashboard Layout](https://sample-bootstrap-dashboard.appseed-srv1.com/) - LIVE Demo
 
-<br /> 
+<br />
 
-> 🚀 `PROMO`: **[Junior Developers Starter KIT](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)** `85%OFF`
+## [Black Friday 2022](https://appseed.us) - `75%OFF`
 
-The package includes a `rock-solid collection of premium assets` (**Kits & Dashboards**) that can be used to build eye-catching portfolios and web apps in no time.
+> The campaign is active until `30.NOV` and applies to all products and licenses.
 
-[![Junior Developers Starter KIT](https://user-images.githubusercontent.com/51854817/195055646-e55200cd-0ddd-4bdd-aded-0d4e4479789b.png)](https://www.creative-tim.com/product/buy/bundle/junior-bundle?AFFILIATE=128200)
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us)
 
-<br /> 
+<br />
 
 ## ✨ How to use it 
 
